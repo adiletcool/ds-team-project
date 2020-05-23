@@ -1,0 +1,261 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.row {
+    height: 100vh;
+    font-family: "Helvetica Neue", serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+    transition: .75s;
+    color: #0C2D48;
+}
+
+.banner {
+    margin: 0 1% .5% 1%;
+    top: 1%;
+    height: 45px;
+    background-color: #DEE2EC;
+    position: relative;
+    border: 2px solid #444444;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.banner Img {
+    position: absolute;
+    float: right;
+    right: .5%;
+    height: 90%;
+    transform: translate(0, 5%);
+    border: 1px inset black;
+    border-radius: 100%;
+}
+
+.hse_logo_class {
+    position: absolute;
+    float: right;
+    right: 1%;
+    bottom: 3%;
+    width: 15%;
+}
+
+.banner H2 {
+    position: absolute;
+    font-weight: 600;
+    top: 50%;
+    left: 50%;
+    margin: 0;
+    transform: translate(-50%, -55%);
+    font-size: 28px;
+    letter-spacing: 1px;
+    font-family: 'Helvetica Neue', serif;
+}
+
+.banner H2:after {
+    /* effect underline */
+    content: '';
+    position: absolute;
+    left: 0;
+    display: inline-block;
+    height: 0.9em;
+    width: 100%;
+    border-bottom: 1px solid;
+    margin-top: 10px;
+    opacity: 0;
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: scale(0, 1);
+    transform: scale(0, 1);
+}
+
+.banner H2:hover:after {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+.five {
+    position: relative;
+    margin: 1% 0 0 1%;
+}
+
+.topleft {
+    position: relative;
+    float: top;
+    padding: 1%;
+    margin: 0 0 5% 0;
+    background-color: #DEE2EC;
+    border: 2px solid #444444;
+    border-radius: 5px;
+    display: grid;
+}
+
+.topleft H4 {
+    font-weight: bold;
+}
+
+.mainpanel {
+    display: inline-flex;
+    position: relative;
+    float: left;
+}
+
+.tickerclass {
+    float: left;
+    width: 35%;
+}
+
+.datepickerbox {
+    z-index: 2;
+    left: 50%;
+    margin: auto;
+    width: 30%;
+    font-size: 18px;
+    transform: translate(-15%, 0);
+}
+
+.DateInput {
+    text-align-last: center;
+    width: inherit;
+    height: 34px;
+}
+
+.timeframeclass {
+    float: right;
+    width: 20%;
+}
+
+.newsdropdown {
+    float: left;
+    width: 94%;
+    vertical-align: middle;
+    font-size: 16px;
+    color: rgb(36, 116, 161);
+}
+
+.company_newsdropdown {
+    float: left;
+    width: 94%;
+    vertical-align: middle;
+    font-size: 16px;
+    color: rgb(36, 116, 161);
+}
+
+.Select-menu-outer {
+    width: 120%;
+}
+
+.newsbutton, .newsbutton1 {
+    color: white;
+    margin: auto auto auto 1%;
+    padding: 1%;
+    width: 5%;
+    height: 35px;
+    float: right;
+    font: icon;
+    font-weight: 700;
+    background-color: #4C5270;
+}
+
+.modal-content, .modal1-content {
+    font-family: 'Helvetica Neue', serif;
+    color: #aeb4b9;
+    position: fixed;
+    border-radius: 5px;
+    background: #1e222d;
+    top: 2%;
+    left: 50%;
+    transform: translate(-50%, -2%);
+    width: 70%;
+    height: auto;
+    float: top;
+    max-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    outline: 0;
+}
+
+.modal-header, .modal1-header {
+    margin: 0 2% 0 2%;
+    border-bottom: 2px solid #c5cbce;
+}
+
+.modal-header-title, .modal1-header-title {
+    font-size: 2.5rem;
+    width: 92%;
+    float: left;
+}
+
+.modal-header-time, .modal1-header-time{
+    font-size: 2.5rem;
+    text-align: center;
+    vertical-align: bottom;
+    border-bottom: 1px solid #c5cbce;
+    position: relative;
+    margin-right: 2%;
+    width: 5%;
+    float: right;
+}
+
+.modal-body {
+    font-size: 1.7rem;
+    position: relative;
+    flex: 1 1 auto;
+    padding: 1rem;
+    white-space: normal;
+    margin: 1%;
+    overflow-y: scroll;
+}
+
+.modal-close, .modal1-close {
+    background-color: #DEE2EC;
+    color: #0C6980;
+    border-radius: 5px;
+    position: relative;
+    font-size: 10px;
+    float: right;
+    margin-top: 1%;
+    right: 5%;
+    bottom: 10px;
+    border: 1px solid #444444;
+    vertical-align: center;
+}
+
+.seven {
+    position: relative;
+    float: right;
+    background-color: #DEE2EC;
+    right: 1%;
+    margin: 1% 0 0 0;
+    border: 2px solid #444444;
+    border-radius: 5px;
+    height: 80%;
+    padding: 15px;
+}
+
+.VirtualizedSelectOption {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.bottomleft {
+    position: relative;
+    float: bottom;
+    padding: 10px;
+    background-color: #DEE2EC;
+    border: 2px solid #444444;
+    border-radius: 5px;
+}
+
+.dark-theme-toogle-class {
+    position: absolute;
+    font-family: 'Helvetica Neue', serif;
+    font-size: 28px;
+    font-weight: 600;
+    left: 1.1%;
+    bottom: 3vh;
+}

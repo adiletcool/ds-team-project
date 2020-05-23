@@ -1,0 +1,18 @@
+ # Byte-compiled / optimized / DLL files
+ __pycache__/
+ *.py[cod]
+*$py.class
+
+# Large files (exclude .bin if dostoevsky is used)
+*.xls
+
+# virtualenv
+venv
+.env
+
+ # Cache
+*.pyc
+.DS_Store
+
+# Logs
+*.log

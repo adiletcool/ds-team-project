@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+dash = "*"
+dash-daq = "*"
+scikit-learn = "==0.19.2"
+bs4 = "*"
+requests = "*"
+lxml = "*"
+xlrd = "*"
+pandas = "*"
+gunicorn = "*"
+speechrecognition = "*"
+gensim = "*"
+pymorphy2 = "*"
+dash-bootstrap-components = "*"
+
+[requires]
+python_version = "3.7"

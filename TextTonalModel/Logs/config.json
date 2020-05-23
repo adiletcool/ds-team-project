@@ -1,0 +1,7 @@
+{
+    "datetime": "2020-05-15 23:27:44.671205",
+    "unigrams.db": "exists",
+    "bigrams.db": "exists",
+    "trigrams.db": "exists",
+    "ruscorpora_upos_skipgram_300_10_2017.bin.gz": "exists"
+}
