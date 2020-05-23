@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9510f84-d4c5-4a95-b94b-aabd7236493e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="2967bf2e-9c0f-4ae8-9735-5578a9426eee" />
+  <component name="ProjectId" id="1bmTpjNkCs7UhjKdNAvGZVi54x8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="DS_project" is-module-sdk="true">
+        <option name="useSoftWraps" value="true" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="DS_project" />
+      </console-settings>
+    </option>
+    <option name="myShowVariablesByDefault" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="TextTonalAnalyzer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DS_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TextTonalModel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TextTonalModel/TextTonalAnalyzer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TextTonalAnalyzer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DS_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news/TextTonalAnalyzer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="interfax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DS_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news/interfax.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DS_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DS_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.interfax" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.TextTonalAnalyzer (1)" />
+        <item itemvalue="Python.TextTonalAnalyzer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9510f84-d4c5-4a95-b94b-aabd7236493e" name="Default Changelist" comment="" />
+      <created>1589236453948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589236453948</updated>
+      <workItem from="1589307929210" duration="1813000" />
+      <workItem from="1589312081529" duration="3180000" />
+      <workItem from="1589365995878" duration="5423000" />
+      <workItem from="1589373035568" duration="840000" />
+      <workItem from="1589373917754" duration="25000" />
+      <workItem from="1589395899099" duration="647000" />
+      <workItem from="1589407200912" duration="1236000" />
+      <workItem from="1589411283975" duration="1014000" />
+      <workItem from="1589459993051" duration="13298000" />
+      <workItem from="1589476354353" duration="3866000" />
+      <workItem from="1589482647062" duration="116000" />
+      <workItem from="1589482797847" duration="22000" />
+      <workItem from="1589494279918" duration="4354000" />
+      <workItem from="1589536011243" duration="1300000" />
+      <workItem from="1589539396362" duration="1082000" />
+      <workItem from="1589554711809" duration="3797000" />
+      <workItem from="1589560825218" duration="1504000" />
+      <workItem from="1589562409955" duration="9150000" />
+      <workItem from="1589571759186" duration="18595000" />
+      <workItem from="1589621978472" duration="4254000" />
+      <workItem from="1589634060258" duration="6157000" />
+      <workItem from="1589647517315" duration="863000" />
+      <workItem from="1589656329840" duration="1392000" />
+      <workItem from="1589660079346" duration="1925000" />
+      <workItem from="1589750788535" duration="43000" />
+      <workItem from="1589971988238" duration="5979000" />
+      <workItem from="1589996809594" duration="2638000" />
+      <workItem from="1590006575159" duration="128000" />
+      <workItem from="1590006714180" duration="3505000" />
+      <workItem from="1590062174356" duration="8319000" />
+      <workItem from="1590091620588" duration="67000" />
+      <workItem from="1590149129671" duration="1004000" />
+      <workItem from="1590232245141" duration="5062000" />
+      <workItem from="1590240746532" duration="3229000" />
+      <workItem from="1590244002142" duration="592000" />
+      <workItem from="1590244616455" duration="979000" />
+      <workItem from="1590246166216" duration="722000" />
+      <workItem from="1590246903775" duration="1484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Pipfile" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="906" y="218" key="#Inspections" timestamp="1590246885518">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="906" y="218" key="#Inspections/0.0.2560.1080@0.0.2560.1080" timestamp="1590246885518" />
+    <state x="1165" y="403" width="472" height="390" key="#Notifications" timestamp="1590067302410">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1165" y="403" width="472" height="390" key="#Notifications/0.0.2560.1080@0.0.2560.1080" timestamp="1590067302410" />
+    <state x="1032" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589306904199">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1032" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1589306904199" />
+    <state x="1085" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1589297682587">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1085" y="256" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1589297682587" />
+    <state x="92" y="92" width="2376" height="896" key="DiffContextDialog" timestamp="1589314026405">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="92" y="92" width="2376" height="896" key="DiffContextDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1589314026405" />
+    <state x="1352" y="268" key="EnvironmentVariablesDialog" timestamp="1589462816270">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1352" y="268" key="EnvironmentVariablesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1589462816270" />
+    <state x="1089" y="338" width="578" height="486" key="FileChooserDialogImpl" timestamp="1590091685289">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1089" y="338" width="578" height="486" key="FileChooserDialogImpl/0.0.2560.1080@0.0.2560.1080" timestamp="1590091685289" />
+    <state width="791" height="951" key="GridCell.Tab.0.bottom" timestamp="1590246888709">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="791" height="951" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1590246888709" />
+    <state width="791" height="951" key="GridCell.Tab.0.center" timestamp="1590246888709">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="791" height="951" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1590246888709" />
+    <state width="791" height="951" key="GridCell.Tab.0.left" timestamp="1590246888709">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="791" height="951" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1590246888709" />
+    <state width="791" height="951" key="GridCell.Tab.0.right" timestamp="1590246888709">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="791" height="951" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1590246888709" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1589561346636">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.2560.1080@0.0.2560.1080" timestamp="1589561346636" />
+    <state x="667" y="170" width="1419" height="735" key="SettingsEditor" timestamp="1590246870341">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="781" y="165" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1589237167330" />
+    <state x="667" y="170" width="1419" height="735" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1590246870341" />
+    <state x="914" y="245" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1589313769404">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="914" y="245" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.2560.1080@0.0.2560.1080" timestamp="1589313769404" />
+    <state x="1078" y="197" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589498919776">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1078" y="197" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1589498919776" />
+    <state x="1089" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589588238793">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1089" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080@0.0.2560.1080" timestamp="1589588238793" />
+    <state x="1027" y="69" width="672" height="705" key="search.everywhere.popup" timestamp="1590008598579">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1589242511884" />
+    <state x="1027" y="69" width="672" height="705" key="search.everywhere.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1590008598579" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DS_project$interfax.coverage" NAME="interfax Coverage Results" MODIFIED="1590149184046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/DS_project$mood.coverage" NAME="mood Coverage Results" MODIFIED="1589373583620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/DS_project$pytest_in_test_py.coverage" NAME="pytest in test.py Coverage Results" MODIFIED="1589539864357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/DS_project$TextTonalAnalyzer.coverage" NAME="TextTonalAnalyzer Coverage Results" MODIFIED="1589567571836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/DS_project$bot1.coverage" NAME="bot1 Coverage Results" MODIFIED="1589369985884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../vk_bot_1" />
+    <SUITE FILE_PATH="coverage/DS_project$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1590246843608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DS_project$get_quotes.coverage" NAME="get_quotes Coverage Results" MODIFIED="1589462841102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quotes/ricom" />
+    <SUITE FILE_PATH="coverage/DS_project$TextTonalAnalyzer__1_.coverage" NAME="TextTonalAnalyzer (1) Coverage Results" MODIFIED="1589574463611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TextTonalModel" />
+    <SUITE FILE_PATH="coverage/DS_project$main.coverage" NAME="main Coverage Results" MODIFIED="1589310459736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
