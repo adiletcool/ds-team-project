@@ -1,0 +1,1 @@
+здесь должнен лежать файл ruscorpora_upos_skipgram_300_10_2017.bin.gz, полученный с https://rusvectores.org/ru/models/ 

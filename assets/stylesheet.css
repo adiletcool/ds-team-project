@@ -259,3 +259,7 @@ body {
     left: 1.1%;
     bottom: 3vh;
 }
+
+.dash-debug-menu {
+    display: none;
+}
